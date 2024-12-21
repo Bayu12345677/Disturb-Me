@@ -7,7 +7,7 @@
   apt install git make
   apt install python
   git clone https://github.com/Bayu12345677/Disturb-Me
-  cd Disturb-me
+  cd Disturb-Me
   make setup
   make Run
   ```
