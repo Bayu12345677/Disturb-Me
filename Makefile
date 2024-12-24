@@ -2,7 +2,7 @@ setup:
 	apt-get update
 	apt-get upgrade
 	apt-get install ruby python ossp-uuid figlet pv toilet nodejs
-	apt-get install curl xh ncurses-utils clang bc nodejs-lts
+	apt-get install curl xh ncurses-utils clang bc nodejs-lts xz-utils
 	pip install requests
 	pip install httpie
 	pip install phonenumbers
